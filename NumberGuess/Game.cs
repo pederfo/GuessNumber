@@ -6,5 +6,10 @@ namespace NumberGuess
 {
 	class Game
 	{
+		public void Run()
+		{
+			// 
+		}
+
 	}
 }
