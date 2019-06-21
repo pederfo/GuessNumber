@@ -9,7 +9,8 @@ namespace NumberGuess
 		public void Run()
 		{
 			// readline: choose a number between 1 and 1000
-
+			Console.WriteLine("Write a secret number between 1 and 1000");
+			Console.ReadLine();
 		}
 
 	}
