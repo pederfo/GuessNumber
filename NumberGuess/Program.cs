@@ -7,8 +7,8 @@ namespace NumberGuess
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
-			//jeg prøver
-			//kommentar
+            
+
 		}
 	}
 }
