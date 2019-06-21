@@ -8,6 +8,7 @@ namespace NumberGuess
 		{
 			Console.WriteLine("Hello World!");
 			//jeg prøver
+			//kommentar
 		}
 	}
 }
